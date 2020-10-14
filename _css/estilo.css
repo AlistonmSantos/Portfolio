@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-size: 62,5%;
+}
+
+body {
+    height: 100vh;
+    color: white;
+    font: 400 1.8rem/1 'Roboto Mono', monospace;
+}
+
+#primeira_pagina {
+    background: linear-gradient(329.54deg, #000000 0%, #2e2c2c 100%);
+
+    text-align: center;
+
+    min-height: 100vh;
+
+    display: flex;
+}
+
+h1, p {
+    height: 10vh;
+}
+
+strong, p {
+    height: 10vh;
+}
+
+#container {
+    margin: 0.9rem;
+    width: 90%;
+}
+
+#logo {
+    border-radius: 50%;
+    animation-delay: 50ms;
+}
+
+#apresentacao p {
+    font-size: 1rem;
+}
+
+.citacao {
+    font: 400 1.8rem/1 'Butterfly Kids', cursive;
+} 
+
+
+
