@@ -10,6 +10,19 @@
     color: aliceblue;
 }
 
+#container {
+    margin: auto;
+    width: 90%;
+}
+
+.minhas_informacoes, #frase, .redes-sociais ul{
+    height: 16vh;
+}
+
+#logo {
+    border-radius: 50%;
+}
+
 ul li {
     list-style: none;
     display: inline;
