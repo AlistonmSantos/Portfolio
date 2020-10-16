@@ -15,7 +15,15 @@
     width: 90%;
 }
 
-.minhas_informacoes, #frase, .redes-sociais ul{
+.minhas_informacoes {
+    height: 16vh;
+}
+
+#frase {
+    height: 16vh;
+}
+
+.redes-sociais ul {
     height: 16vh;
 }
 
