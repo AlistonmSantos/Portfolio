@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+:root {
+    font-size: 62.5;
+}
+
+
 #primeira_pagina {
     background: linear-gradient(329.54deg, #000000 0%, #2e2c2c 100%);
     min-height: 100vh;
